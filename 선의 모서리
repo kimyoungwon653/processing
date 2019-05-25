@@ -1,0 +1,9 @@
+size(480,120);
+strokeWeight(50);
+line(40,30,70,170);
+strokeCap(SQUARE);
+line(160,30,190,170);
+strokeCap(PROJECT);
+line(280,30,310,170);
+strokeCap(ROUND);
+line(400,30,430,170);
